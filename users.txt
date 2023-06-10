@@ -1,0 +1,4 @@
+{'user_id':'u_1286764701', 'user_name':'admin', 'user_password':'admin123', 'user_register_time':'00-00-0000_00:00:00', 'user_role':'admin'}
+{'user_id': 'u_8511021598', 'user_name': 'tom', 'user_password': 'tom123', 'user_register_time': '00-00-0000_00:00:00', 'user_role': 'customer', 'user_email': 'tom@gmail.com', 'user_mobile': '0482935738'}
+{'user_id': 'u_3482293838', 'user_name': 'don', 'user_password': 'donjenn123', 'user_register_time': '00-00-0000_00:00:00', 'user_role': 'customer', 'user_email': 'donjen@gmail.com', 'user_mobile': '0456789105'}
+{'user_id': 'u_7453079456', 'user_name': 'testuser', 'user_password': 'test1234', 'user_register_time': '00-00-0000_00:00:00', 'user_role': 'customer', 'user_email': 'test@gmail.com', 'user_mobile': '0456789345'}
